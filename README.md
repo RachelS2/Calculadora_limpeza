@@ -12,7 +12,7 @@ II. Open the command prompt in the selected work folder.
 
 III. Clone this repository into the selected work folder by typing:
  
-git clone git@github.com:RachelS2/Calculadora_limpeza.git
+[![git clone git@github.com:RachelS2/Calculadora_limpeza.git](https://img.shields.io/badge/-git%20clone%20git@github.com:RachelS2/Calculadora__limpeza.git-blue?style=for-the-badge)](https://github.com/RachelS2/Calculadora_limpeza.git)
 
 IV. Open the .ipynb file and run it (be sure you have all libs available to do so)
 
